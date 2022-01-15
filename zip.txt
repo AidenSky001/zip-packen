@@ -1,0 +1,6 @@
+#!/bin/bash
+echo Gib eine Datum ein
+read Datum
+Datum = $Datum +2
+echo "Du hast das Datum $Datum eingegeben."
+
